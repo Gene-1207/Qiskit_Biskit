@@ -85,11 +85,20 @@ Security decision (Accept/Reject key)
 
 
 ## Protocol Comparison
-Protocol	         Key Idea	             Pros	                  Cons
-BB84	         Random bases,4 states	   Simple, practical	    Needs classical channel
-B92	           2-state protocol	         Simpler physically	    Less robust
-E91	           Entanglement-based	       Strong security	      Harder to implement
+1. BB84
+Key Idea- Random bases,4 states	   
+Pros-Simple, practical	    
+Cons- Needs classical channel
 
+2. B92
+Key Idea- 2-state protocol	         
+Pros- Simpler physically	    
+Cons- Less robust
+
+3. E91	           
+Key Idea- Entanglement-based	       
+Pros- Strong security	      
+Cons- Harder to implement
 
 ## References
 Qiskit Documentation

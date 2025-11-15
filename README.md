@@ -79,24 +79,12 @@ B92	           2-state protocol	         Simpler physically	    Less robust
 E91	           Entanglement-based	       Strong security	      Harder to implement
 
 
-## Education & Presentation Materials
-This project includes:
-Slides explaining BB8
-Annotated code for teaching
-Eve attack visualizations
-Real hardware execution examples
-
-## Useful for:
-Classroom demos
-QKD research
-Hackathons
-IBM Quantum learning modules
-
 ## References
 Qiskit Documentation
 IBM Quantum Cloud Documentation
 BB84 original research paper (Bennett & Brassard, 1984)
 Quantum Cryptography lectures
+Qiskit IBM official youtube series
 
 
 

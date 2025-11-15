@@ -52,6 +52,18 @@ Bob       python bob.py	              5002
 Alice	  python alice.py	          5000
 Update IP addresses in each file as required.
 
+## HOW IT WORKS?
+First we setup Bob, Alice and Eve in diffrent laptop connected to the same IP Address. 
+Then a message is sent from Alice to Bob refer to send_message.jpng. 
+The text is in cipher text and then it's decrypted in Bob's base laptop. 
+Eve tries to eavesdropping but we get the error percentage so that Bob and Alice knows what's the issue 
+In this cae:
+qber=1.25%
+sifted_len = number of bits after sifting
+sifted_alice, sifted_bob = keys after matching bases
+Here, the percenatge of qber is the noise/ eavesdropping percentage. 
+The decrypted text is the "Hello World" in this case. 
+
 ## Metrics & Analysis
 Quantum Bit Error Rate (QBER)
 After sifting, errors are counted:
